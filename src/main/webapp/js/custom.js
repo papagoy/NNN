@@ -479,7 +479,7 @@ app
             });
           };
 
-
+// keerab perse ära kõik
         });
 
 ChartDrawer = {
