@@ -480,6 +480,7 @@ app
           };
 
 // keerab perse ära kõik
+          //no nihhuja
         });
 
 ChartDrawer = {
