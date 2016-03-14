@@ -63,7 +63,7 @@
         <div class="col-sm-12 text-center">
           <button ng-click="update(record)" class="btn btn-primary">SAVE</button>
           <button ng-click="clear()" class="btn btn-danger">CLEAR</button>
-          <a href="/record/export" class="btn btn-link">Export records</a>
+          <a href="/record/export" class="btn btn-link">EXPORT!</a>
         </div>
       </div>
     </form>
