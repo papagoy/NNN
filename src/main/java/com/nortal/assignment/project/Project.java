@@ -25,5 +25,9 @@ public class Project {
   public void setProjectName(String projectName) {
     this.projectName = projectName;
   }
+  
+  public String toString(){
+		return projectName;
+	}
 
 }

@@ -114,7 +114,7 @@ public String getProjectNames() {
   
   public String toString(){
 	  
-	  return id.toString() + date +type +content;
+	  return id.toString()+" " + date +" "+type +" "+content+" "+employees+" "+projects;
 	  
   }
 

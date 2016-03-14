@@ -56,4 +56,8 @@ public static class OrderBySalary implements Comparator<Employee> {
 	  }
   }
 
+public String toString(){
+	return employeeName;
+}
+
 }
