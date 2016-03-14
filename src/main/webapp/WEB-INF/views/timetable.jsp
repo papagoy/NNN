@@ -41,7 +41,7 @@
             <div class="col-sm-12">
               <div class="form-group">
                 <div class="input-group">
-                  <input id="inputDatepickerStart" class="form-control" type="text" ng-model="entry.startDate">
+                  <input id="inputDatepickerStart" class="form-control" type="text" ng-model="entry.startDate" bs-datepicker>
                   <div class="input-group-addon"><i class="icon-calendar"></i></div>
                 </div>
               </div>
@@ -54,7 +54,7 @@
             <div class="col-sm-12">
               <div class="form-group">
                 <div class="input-group">
-                  <input id="inputDatepickerEnd" class="form-control" type="text" ng-model="entry.endDate">
+                  <input id="inputDatepickerEnd" class="form-control" type="text" ng-model="entry.endDate" bs-datepicker>
                   <div class="input-group-addon"><i class="icon-calendar"></i></div>
                 </div>
               </div>

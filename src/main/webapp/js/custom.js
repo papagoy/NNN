@@ -422,6 +422,8 @@ app
                 resizable : false,
                 width : '60px'
               } ];
+            
+
 
             var buttonTemplate = '<div><button id="delete_{{row.rowIndex}}" class="btn btn-sm btn-transparent" ng-click="deleteRow(row)"><li class="icon-trash"></li></button></div>';
             var saveColumn = {};
